@@ -1,7 +1,8 @@
 using System;
 using System.Collections.Generic;
 
-namespace Tracker{
+namespace Tracker
+{
 
   public class Program
 

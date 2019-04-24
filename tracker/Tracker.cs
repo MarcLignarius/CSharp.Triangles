@@ -25,15 +25,15 @@ namespace Tracker
       }
       else if (sideOne == sideTwo && sideTwo == sideThree)
       {
-        return "This is an Equilateral triangle";
+        return "This is an equilateral triangle";
       }
       else if(sideOne == sideTwo || sideTwo == sideThree || sideOne == sideThree)
       {
-        return "This is an Isosceles triangle";
+        return "This is an isosceles triangle";
       }
       else if(sideOne != sideTwo && sideTwo != sideThree && sideOne != sideThree)
       {
-        return "This is a Scalene triangle";
+        return "This is a scalene triangle";
       }
       else
       {

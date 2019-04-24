@@ -23,7 +23,7 @@ _Program which takes 3 user inputs for each side of a triangle, builds the trian
 | If the sum of two sides is smaller than the third, program says "This is not a triangle" | 1 / 1 / 10 | "This is not a triangle" |
 | If it is a triangle and no sides are equal, program says "This is a scalene triangle" | 7 / 6 / 10 | "This is a scalene triangle" |
 | If it is a triangle and two sides are equal, program says "This is an isosceles triangle" | 7 / 7 / 10 | "This is an isosceles triangle" |
-| If it is a triangle and all three sides are equal, program says "This is an equilateral triangle"  | 10 / 10 / 10 | "This is not am equilateral triangle" |
+| If it is a triangle and all three sides are equal, program says "This is an equilateral triangle"  | 10 / 10 / 10 | "This is an equilateral triangle" |
 
 ## Known Bugs
 
